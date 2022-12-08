@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://sohelmalek.github.io/sohelyogurt1/sitemap.xml
